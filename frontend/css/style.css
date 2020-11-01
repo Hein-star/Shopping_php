@@ -7,11 +7,11 @@
 }
 
 .maincolor, .shoppingcartIcon:hover, .item-price span{
-    color: #ef3b68;
+    color: #28a745;
 }
 
 .mainbgcolor{
-    background-color: #ef3b68;
+    background-color: #28a745;
 }
 
 .cartImg{
@@ -20,30 +20,28 @@
     object-fit:cover;
 }
 .secondarycolor{
-    color: #E2335E;
+    color: #28a745;
 }
 
 .mainfullbtncolor{
-    background-color: #ef3b68 !important;
-    border-color: #ef3b68 !important;
+    background-color: #28a745 !important;
+    border-color: #28a745 !important;
 }
 
 .mainfullbtncolor:hover{
     background-color: #fff !important;
-    border-color: #ef3b68 !important;
-    color: #ef3b68 !important;
-
+    border-color: #28a745 !important;
+    color: #28a745 !important;
 }
 
-
 .subtitle{
-    /*background-color: #F49FB9 !important;*/
-    background-image: linear-gradient(-90deg, #E2335E, #F49FB9);
+    background-color: #28a745 !important;
+    background-image: linear-gradient(-90deg, #28a745, #154360);
 }
 .navslidemenu{
     border: 1px solid #ef3b68;
     border-radius: 5px;
-    color: #ef3b68;
+    color: #28a745;
 }
 
  /*NAV Sidebar*/
@@ -183,8 +181,7 @@ a.shoppingcartLink, .searchiconBtn i{
 }
 
 a.shoppingcartLink:hover{
-	color: #D00320;
-
+	color: #28a745;
 }
 
 a.shoppingcartLink i{
@@ -196,7 +193,7 @@ a.shoppingcartLink i{
 }
 
 span.cartNotistyle{
-	background: #ef3b68;
+	background: #28a745;
     position: relative;
     top: -15px;
     left: -13px;
@@ -243,15 +240,12 @@ li.dropdown-submenu:hover > ul.dropdown-menu{
 .bannerImg{
     height: 460px;
     object-fit: cover;
+    filter: brightness(70%);
 }
 
 .categoryCard{
     background-color: #F5F5F5 !important;
 }
-
-
-
-
 
 .shoppingcartIcon{
     font-size: 25px;
@@ -459,7 +453,7 @@ footer{
 }
 
 button.btnMain{
-    background-color: #ef3b68;
+    background-color: #28a745;
     /*border-color: #ef3b68;*/
     color: #fff;
 }
@@ -483,8 +477,8 @@ button.btnMain:hover{
 
 .addtocartBtn:hover{
     color: #fff;
-    background: #ef3b68;
-    border-color: #ef3b68;
+    background-color: #28a745;
+    border-color: #28a745;
     box-shadow: none;
 }
 
@@ -503,8 +497,8 @@ button.btnMain:hover{
 }
 
 .list-group-item.active{
-    background-color:  #ef3b68 !important;
-    border-color:  #ef3b68 !important;   
+    background-color:  #28a745 !important;
+    border-color:  #28a745 !important;   
 
 }
 
@@ -519,13 +513,13 @@ button.btnMain:hover{
 
 
 .page-link{
-    color: #ef3b68 !important;
+    color: #28a745 !important;
 }
 
 .page-item.active .page-link{
     color: #fff !important;
-    background-color: #ef3b68 !important;
-    border-color: #ef3b68 !important;
+    background-color: #28a745 !important;
+    border-color: #28a745 !important;
 
 }
 
